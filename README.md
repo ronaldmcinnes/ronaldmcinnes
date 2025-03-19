@@ -11,9 +11,8 @@
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonaldMcInnes&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldMcInnes&layout=compact&theme=dark)
-![Ronald's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RonaldMcInnes&theme=github-dark)
 
-🚀 **Some of my projects:**  
+**Some of my projects:**  
 - **[Fable](#)** - AI-powered storytelling (1st Place Sunhacks)
 - **[YouDub](#)** - Real-time AI video dubbing (Calhacks Submission)
 - **[NEWRR](#)** – Wildlife rescue platform (1st Place Opportunity Hack)
