@@ -4,9 +4,9 @@
   <a href="https://linkedin.com/in/ronald-mcinnes"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
 </p>
 
-### 💡 About Me:
-- 🎯 **CS & Data Science @ ASU**
-- 🏆 **Hackathon Winner: Sunhacks, Opportunity Hack, 2x Devils Invent**
+### About Me:
+- **Studying CS & Data Science at ASU**
+- **Hackathon Winner: Sunhacks, Opportunity Hack, 2x Devils Invent**
   
 ### 🛠 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
