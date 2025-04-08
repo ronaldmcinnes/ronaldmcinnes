@@ -6,7 +6,7 @@
 
 ### About Me:
 - **Studying CS & Data Science at ASU**
-- **Hackathon Winner: Sunhacks, Opportunity Hack, 2x Devils Invent**
+- **Hackathon Winner: Sunhacks, Opportunity Hack, 3x Devils Invent**
 
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonaldMcInnes&show_icons=true&theme=tokyonight)
